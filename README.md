@@ -2,7 +2,7 @@
 
 Migrando mis proyectos desde Bitbucket a GitHub, para hacer públicos mis conocimientos.\
 Profundizando habilidades en testing de API's (Python y Go) y monitorización con servicios APM.\
-Trabajando sobre apps a pedidos en Odoo y Flask.
+Trabajando sobre apps a pedidos en Odoo y Flask.\
 Listo para colaborar en proyectos Tryton y Odoo.
 
 #### Algunos de mis proyectos realizados
