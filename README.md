@@ -3,14 +3,11 @@
 Migrando mis proyectos desde Bitbucket a GitHub, para hacer públicos mis conocimientos.\
 Profundizando habilidades en testing de API's (Python y Go) y monitorización con servicios APM.\
 Trabajando sobre apps a pedidos en Odoo y Flask.
+Listo para colaborar en proyectos Tryton y Odoo.
 
 #### Algunos de mis proyectos realizados
 Sistema ERP para municipios: liquidaciones de tasas para contribuyentes y sueldos para empleados y jubilados. (Tryton)\
 Aplicación para recetas de contactología. (Odoo)
-
-#### Mi script favorito
-
-Script que permite generar una APP/API Flask, Go, Odoo o Tryton en cuestión de segundos. Creando estructura, módulos, atributos, migración, test unitarios, monitoreo, backups, etc..
 
 #### Lenguajes y herramientas
 
