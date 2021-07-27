@@ -1,6 +1,6 @@
 #### Lenguajes y herramientas
 
-**Python - Flask - Tryton - Odoo - Golang**\ - C++ - Java - Scala - Cobol\
+**Python - Flask - Tryton - Odoo - Golang** - C++ - Java - Scala - Cobol\
 HTML - CSS - JavaScript - Typescript - Jinja2 - Angular - Bootstrap\
 Bash - Docker - PostgreSQL - SQLite\
 Postman - ElasticAPM - AndroidStudio - Opencv - Leaflet
