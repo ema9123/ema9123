@@ -10,7 +10,7 @@ Aplicación para recetas de contactología. (Odoo)
 
 #### Mi script favorito
 
-Script que permite generar una APP/API Flask, Go, Odoo o Tryton en cuestión de segundos. Creando estructura, módulos, atributos, migración, monitoreo, backups, etc..
+Script que permite generar una APP/API Flask, Go, Odoo o Tryton en cuestión de segundos. Creando estructura, módulos, atributos, migración, test unitarios, monitoreo, backups, etc..
 
 #### Lenguajes y herramientas
 
