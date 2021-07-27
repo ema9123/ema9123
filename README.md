@@ -1,6 +1,6 @@
 #### Actualmente me encuentro
 
-Migrando mis proyectos desde Bitbucket a GitHub, con la idea hacer públicos mis conocimientos.\
+Migrando mis proyectos desde Bitbucket a GitHub.\
 Profundizando conocimiento en testing de API's (Python y Go) y monitorización con servicios APM.\
 Trabajando sobre apps a pedidos en Odoo y Flask.
 
