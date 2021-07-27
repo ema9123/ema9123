@@ -14,7 +14,8 @@ Script que permite generar una APP/API Flask, Go, Odoo o Tryton en cuestión de 
 
 #### Lenguajes y herramientas
 
-**Python - Flask - Tryton - Odoo - Golang** - C++ - Java - Scala - Cobol || HTML - CSS - JavaScript - Typescript - Jinja2 - Angular - Bootstrap\
+**Python - Flask - Tryton - Odoo - Golang**\
+C++ - Java - Scala - Cobol || HTML - CSS - JavaScript - Typescript - Jinja2 - Angular - Bootstrap\
 Bash - Docker - PostgreSQL - SQLite || Postman - ElasticAPM - AndroidStudio - Opencv - Leaflet
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ema9123&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) -->
