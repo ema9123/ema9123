@@ -6,7 +6,6 @@ HTML - CSS - JavaScript - Typescript - Jinja2 - Angular - Bootstrap\
 Bash - Docker - PostgreSQL - SQLite\
 Postman - ElasticAPM - AndroidStudio - Opencv - Leaflet
 
----
 ### Actualmente me encuentro
 
 Migrando mis proyectos desde Bitbucket a GitHub, con la idea hacer públicos mis conocimientos.\
@@ -14,12 +13,10 @@ Profundizando conocimiento en testing de API's (Python y Go) y monitorizacion co
 Trabajando sobre apps a pedidos en Odoo y Flask.
 Creando script Python de exportación de datos desde COBOL.
 
----
 ### Algunos de mis proyectos realizados
 Sistema ERP para municipios: liquidaciones de tasas para contribuyentes y sueldos para empleados y jubilados. (Tryton)\
 Aplicación para recetas de contactología. (Odoo)
 
----
 ### Mi script favorito
 
 Script que permite generar una APP/API Flask, Go, Odoo o Tryton en cuestión de segundos. Creando estructura, módulos, atributos, migración, monitoreo, backups, etc..
