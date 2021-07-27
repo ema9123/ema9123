@@ -11,8 +11,7 @@ Postman - ElasticAPM - AndroidStudio - Opencv - Leaflet
 
 Migrando mis proyectos desde Bitbucket a GitHub, con la idea hacer públicos mis conocimientos.\
 Profundizando conocimiento en testing de API's (Python y Go) y monitorizacion con servicios APM.\
-Finalizando app a pedido para la administración de alumnos para una escuela. (Odoo)
-Construyendo app a pedido para curso de inglés online (Flask).\
+Trabajando sobre apps a pedidos en Odoo y Flask.
 Creando script Python de exportación de datos desde COBOL.
 
 ---
