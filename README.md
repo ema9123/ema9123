@@ -15,4 +15,4 @@ Aplicación para recetas de contactología. (Odoo)
 C++ - Java - Scala - Cobol || HTML - CSS - JavaScript - Typescript - Jinja2 - Angular - Bootstrap\
 Bash - Docker - PostgreSQL - SQLite || Postman - ElasticAPM - AndroidStudio - Opencv - Leaflet
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ema9123&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ema9123&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
