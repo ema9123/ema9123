@@ -12,7 +12,7 @@ Aplicación para recetas de contactología. (Odoo)
 #### Lenguajes y herramientas
 
 **Python - Flask - Tryton - Odoo - Golang**\
-HTML - CSS - JavaScript - Typescript - Cobol\
+HTML - CSS - JavaScript - Typescript\
 Bash - Docker - PostgreSQL - SQLite\
 Postman - ElasticAPM - AndroidStudio
 
